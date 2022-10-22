@@ -2,10 +2,10 @@
 
 ### SetUp List
 
-- [ ] module installation environment
-- [ ] react
-- [ ] typescript
-- [ ] webpack
-- [ ] babel
-- [ ] test build
-- [ ] eslint, prettier
+- [x] module installation environment
+- [x] react
+- [x] typescript
+- [x] webpack
+- [x] eslint, prettier
+- [x] babel
+- [x] jest
